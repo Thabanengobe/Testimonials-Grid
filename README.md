@@ -31,8 +31,8 @@ Users should be able to:
 
 
 ### Links
-
-- Solution URL: [Github](https://github.com/Thabanengobe/Testimonials-Grid)
+- Live URL: [Versel](https://grid-testify.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/a-mobilefirst-responsive-testimonials-grid-using-css-grid-kEkiKgYn_L)
 
 ## My process
 
